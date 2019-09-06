@@ -46,4 +46,16 @@ git status<br>
 git add Filename.txt Filename.md filename.etc<br>
 git status<br>
 git commit -m "Add to readme.md file"<br>
-git push
+git push<br>
+
+
+# Fork and Pull
+
+Go to repo in Github and fork it at the top right.<br>
+Create a directory.<br>
+Run the command in that directory:<br> 
+git init<br>
+Run the command:<br>
+git remote add origin "Paste in the clone/download address here"<br>
+Then run the command to pull the master branch or whatever branch you need:<br>
+git pull origin master<br>
