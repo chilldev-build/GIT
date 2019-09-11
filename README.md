@@ -59,3 +59,12 @@ Run the command:<br>
 git remote add origin "Paste in the clone/download address here"<br>
 Then run the command to pull the master branch or whatever branch you need:<br>
 git pull origin master<br>
+
+Or 
+
+git clone "Paste in address from github"
+
+# Add branch and set origin
+
+git checkout -b "name_of_branch"
+git push -u origin "name_of_branch"
