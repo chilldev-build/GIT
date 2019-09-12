@@ -68,3 +68,8 @@ git clone "Paste in address from github"
 
 git checkout -b "name_of_branch"
 git push -u origin "name_of_branch"
+
+# Branch Visualization
+
+git log --graph
+git log --graph --decorate --oneline 
