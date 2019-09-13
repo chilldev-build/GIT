@@ -66,10 +66,10 @@ git clone "Paste in address from github"
 
 # Add branch and set origin
 
-git checkout -b "name_of_branch"
-git push -u origin "name_of_branch"
+git checkout -b "name_of_branch"<br>
+git push -u origin "name_of_branch"<br>
 
 # Branch Visualization
 
-git log --graph
-git log --graph --decorate --oneline 
+git log --graph<br>
+git log --graph --decorate --oneline<br>
